@@ -1,4 +1,4 @@
-# Install Xtream-UI on Ubuntu 18.04 Server
+# Install Xtream-UI R24 on Ubuntu 18.04 Server
 Here you can read how to instal XtreamUI R24 on a Ubuntu 18.04 Server
 
 # 1.Install Main Server
