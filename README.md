@@ -1,5 +1,5 @@
 # Install Xtream-UI on Ubuntu 18.04 Server
-Here you can read how to instal XtreamUI on a Ubuntu 18.04 Server
+Here you can read how to instal XtreamUI R24 on a Ubuntu 18.04 Server
 
 # 1.Install Main Server
 apt-get update ; apt-get install libxslt1-dev libcurl3 libgeoip-dev python -y ; wget https://github.com/xoceunder/Xtream-UI/raw/master/install.py ; sudo python install.py
